@@ -1,8 +1,6 @@
 ## Overview
 A continuously maintained machine learning knowledge base and technical roadmap.
 
----
-
 ## Repository Structure
 ### Foundations（基础）
 - `linear-algebra.md` — Linear Algebra / 线性代数
@@ -24,13 +22,9 @@ A continuously maintained machine learning knowledge base and technical roadmap.
 - `training.md` — Training & Evaluation / 训练与评估
 - `serving.md` — Deployment & Serving / 部署与服务
 
----
-
 ## How to Use
 - Follow the roadmap from foundations to systems
 - Use this repository as a reference or learning guide
-
----
 
 ## License
 CC BY-NC 4.0
