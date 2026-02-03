@@ -4,9 +4,9 @@ A bilingual (EN/ZH) machine learning knowledge base for continuous learning and 
 
 ## Recommended roadmap
 ml-knowledge-base/
-├── README.md              # 全局说明 & 学习路线图
+├── README.md              # Global overview & learning roadmap
 └── docs/
-    ├── index.md           # 技术路线总览
+    ├── index.md           # Technical roadmap overview
     ├── foundations/
     │   ├── linear-algebra.md
     │   ├── probability.md
@@ -23,3 +23,4 @@ ml-knowledge-base/
         ├── data.md
         ├── training.md
         └── serving.md
+
